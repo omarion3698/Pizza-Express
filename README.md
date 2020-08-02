@@ -32,10 +32,10 @@ j Query
 
 markdown
 
-## Inputs	Description
+## Inputs	and Description
 Pizza Flavour	eg chicken-tikka
 
-Pizza size	eg medium
+Pizza size	eg large
 
 Pizza crust	eg flatbread crust
 
