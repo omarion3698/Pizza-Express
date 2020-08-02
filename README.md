@@ -4,7 +4,7 @@
 Omar Abdirahman Hussein.
 
 ## Description
-This website is for learning Bootstrap and jQuery to recreate a landing page for a fictional studio.
+This is a web application for Pizza Express which is a pizza selling site, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to.
 
 ## Set up instructions
 Step1:Git init
@@ -22,19 +22,21 @@ Step6:Git push origin master
 ## Technologies used
 HTML5
 
-CSS
+CSS3
 
 Bootstrap
 
 JavaScript
 
+j Query
+
 markdown
  
 ## Live link
-https://omarion3698.github.io/delani-omar/.
+https://omarion3698.github.io/Pizza-Express/.
 
 ### Contact Information
-If you have any question or contributions, please email me at [omaribinbakarivic@gmail.com]
+If you have any questions or contributions, please email me at [omaribinbakarivic@gmail.com]
 
 ### License
 MIT License:
