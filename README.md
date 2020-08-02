@@ -31,9 +31,22 @@ JavaScript
 j Query
 
 markdown
- 
+
+## Inputs	Description
+Pizza Flavour	eg chicken-tikka
+Pizza size	eg medium
+Pizza crust	eg flatbread crust
+Pizza topping	eg Beef peperoni
+Number of pizzas	eg 6
+Delivery mode	eg No delivery
+
 ## Live link
 https://omarion3698.github.io/Pizza-Express/.
+
+## Known Bugs
+The site is not yet responsive for some devices.
+
+mail chimp API may not function properly.
 
 ### Contact Information
 If you have any questions or contributions, please email me at [omaribinbakarivic@gmail.com]
