@@ -4,7 +4,7 @@
 Omar Abdirahman Hussein.
 
 ## Description
-This is a web application for Pizza Express which is a pizza selling site, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to.
+This is a web application for Pizza Express which is a pizza selling site, that shows details about the services and diffent pizzas they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to.
 
 ## Set up instructions
 Step1:Git init
