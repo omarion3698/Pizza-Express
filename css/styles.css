@@ -3,13 +3,11 @@
   height: 100%;
   scroll-behavior: smooth;
   font-family: 'Eczar', serif;
-  
 }
 body {
   margin: 0;
   padding: 0;
 }
-
 h1 {
   letter-spacing: 8px;
   color: orange;
@@ -18,7 +16,6 @@ h1 {
   font-size: 60px;
   text-shadow: 2px 2px 5px rgb(8, 156, 5);
 }
-
 h5 {
   letter-spacing: 3px;
 }
@@ -40,12 +37,12 @@ nav .navbar {
   margin-right: 30%;
   font-weight:800;
 }
-.nav-item a{
+.nav-item a {
   padding-right: 50px;
   font-size: 20px;
   font-weight: 700;
 }
-.landing{
+.landing {
   background-image: url("../images/slider2.jpg");
   background-position: center center;
   background-size: cover;
@@ -84,7 +81,6 @@ nav .navbar {
 #about-us {
   min-height: 70vh;
   align-items: center;
-
 }
 .about-pic {
   background-color: #ffa500;
@@ -109,12 +105,10 @@ nav .navbar {
   left: 50%;
   top: 90%;
   margin-left:-20px;
-  
 }
 .bounce {
   animation: bounce 2s infinite;
 }
-
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     transform: translateY(0);
@@ -156,6 +150,7 @@ nav .navbar {
 }
 .deliver {
   display: none;
+  background-color: green;
 }
 .delivery {
   display: none;
@@ -185,6 +180,7 @@ td,th {
 }
 .footer {
   padding-top: 5%;
+  text-align: center;
 }
 #addedprice {
   display: none;
@@ -195,6 +191,15 @@ td,th {
   padding-right: 10%;
   padding-left: 10%;
   font-size: 28px;
+}
+#final-order {
+  background-color: green;
+}
+#checkout {
+  background-color: green;
+}
+#addPizza {
+  background-color: green;
 }
 #regards {
   text-align: center;
@@ -231,6 +236,9 @@ td,th {
   margin-right: 2%;
   padding-right: 16px;
   padding-left: 16px;
+}
+.proceed {
+  background-color: rgb(8, 80, 8);
 }
 .order h2 {
   text-align: center;
